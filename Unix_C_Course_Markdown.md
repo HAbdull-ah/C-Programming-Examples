@@ -1,4 +1,4 @@
-| Week    | Topic                                                   | C Programming                                                                            | Unix                                                                        | Assessment         |
+
 |:--------|:--------------------------------------------------------|:-----------------------------------------------------------------------------------------|:----------------------------------------------------------------------------|:-------------------|
 | Week    | Topic                                                   | C Programming                                                                            | Unix                                                                        | Assessment         |
 | Week 1  | Introduction to C Programming & Unix Basics             | Basic syntax, compiling a program, printing a message                                    | Basic commands: ls, cd, mkdir, rm. Hands-on: Directory and file management  | Hands-on Exercises |
